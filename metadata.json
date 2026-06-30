@@ -1,0 +1,6 @@
+{
+  "name": "MONOLITH Luxury Fashion",
+  "description": "Artisanal luxury menswear catalog, AI virtual try-on, and admin inventory management dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
